@@ -49,86 +49,30 @@ Git • Qt • SQLite • Linux
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
+🚗 Distributed CAN Autonomous Delivery RC Car
 
-## 🚗 Distributed CAN Autonomous Delivery RC Car
+STM32와 Raspberry Pi 기반 분산 ECU 구조의 자율주행 RC카 프로젝트.
 
-STM32와 Raspberry Pi 기반의 분산 ECU 구조 자율주행 RC카
+➡️ Repository : 
 
-### 주요 기능
+👨‍🦯 AI Guide for the Visually Impaired
 
-* OpenCV 기반 Line Tracing
-* ArUco Marker Recognition
-* CAN 기반 ECU 통신
-* MQTT 서버 통신
-* Qt 모니터링 프로그램
-* SQLite 배송 관리
+YOLO와 LiDAR를 활용한 시각장애인 보행 보조 시스템.
 
-### 담당 역할
+➡️ Repository : Project-AIGuide
 
-* STM32 주행 ECU 개발
-* PWM 모터 제어
-* Encoder RPM 측정
-* PID 속도 제어
-* CAN Driver 구현
-* CAN Timeout Fail-safe
-* Independent Watchdog(IWDG)
-* U-turn 알고리즘 구현
+🤖 Rescue Robot
 
-**Tech**
+YOLO와 SLAM 기반 객체 인식 인명구조 로봇.
 
-STM32 • CAN • OpenCV • MQTT • Qt • SQLite
+➡️ Repository : Project-RescueRobot
 
----
+🎮 PBV Steering Wheel Simulator
 
-## 👨‍🦯 AI Guide for the Visually Impaired
+레이싱 휠을 활용한 PBV 차량 제어 시뮬레이션 프로젝트.
 
-YOLO와 LiDAR 기반 보행 보조 시스템
-
-### 주요 기능
-
-* 점자블록 인식
-* 장애물 탐지
-* 객체 인식
-* 음성 안내
-* LiDAR 거리 측정
-
-**Tech**
-
-Raspberry Pi • YOLO • OpenCV • LiDAR • Arduino
-
----
-
-## 🤖 Rescue Robot
-
-SLAM 기반 객체 인식 인명 구조 로봇
-
-### 주요 기능
-
-* 실시간 Mapping
-* SLAM
-* YOLO 객체 인식
-* LiDAR Navigation
-* Arduino Motor Control
-
-**Tech**
-
-Raspberry Pi • LiDAR • YOLO • Arduino
-
----
-
-## 🎮 PBV Steering Wheel Simulator
-
-레이싱 휠을 활용한 PBV 차량 제어 시스템
-
-### 주요 기능
-
-* Steering Wheel 입력
-* 차량 속도 제어
-* 장애물 감지
-* 긴급 정지
-* CAN 연동
-
+➡️ Repository : Project-PBV-Steering
 **Tech**
 
 STM32 • Python • Raspberry Pi • CAN
